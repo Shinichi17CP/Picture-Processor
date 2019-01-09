@@ -1,0 +1,6 @@
+*.o
+*.jpg
+.idea/
+cmake-build-debug/
+images/
+picture_lib
